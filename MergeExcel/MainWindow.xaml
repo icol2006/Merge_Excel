@@ -1,0 +1,29 @@
+﻿<Window x:Class="MergeExcel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MergeExcel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="404.72" Width="791.371">
+    <Grid>
+        <DockPanel Margin="10">
+            <WrapPanel  HorizontalAlignment="Left" DockPanel.Dock="Top" Margin="0,0,0,10" Width="841" Height="41">
+                <Button HorizontalAlignment="Left" Name="btnOpenFile" Click="btnOpenFile_Click" Height="21">Add file</Button>
+                <Button Margin="10px" HorizontalAlignment="Left" Name="btnDelete" Click="btnDeleteFille_Click" Height="21">Delete file</Button>
+                <Button Margin="10px" HorizontalAlignment="Left" x:Name="btnLoad" Click="btnLoadFiles_Click" Height="21" Content="Load files"/>
+                <Button HorizontalAlignment="Right" x:Name="btnSave" Click="btnSaveFile_Click" Height="21" RenderTransformOrigin="0.375,-1.929" Content="Save to excel"/>
+                <Image x:Name="image" Margin="10" Height="21" Width="150"/>
+            </WrapPanel>
+
+            <WrapPanel  HorizontalAlignment="Left" DockPanel.Dock="Top" Margin="0,0,0,10" Width="841" Height="440">
+                <ListBox HorizontalAlignment="Left" x:Name="listBox" Height="269" VerticalAlignment="Top" Width="252"/>
+                <DataGrid x:Name="dataGrid" Height="269" Width="500" VerticalAlignment="Top"/>
+            </WrapPanel>
+    
+          
+        </DockPanel>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\bin\Release\MergeExcel.exe.config
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\bin\Release\MergeExcel.exe
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\bin\Release\MergeExcel.pdb
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\MainWindow.g.cs
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\App.g.cs
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\MergeExcel_MarkupCompile.cache
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\MergeExcel_MarkupCompile.lref
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\MainWindow.baml
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\MergeExcel.g.resources
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\MergeExcel.Properties.Resources.resources
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\MergeExcel.csproj.GenerateResource.Cache
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\MergeExcel.exe
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\MergeExcel\MergeExcel\obj\Release\MergeExcel.pdb
